@@ -1,0 +1,2 @@
+# BrziAlgoritmiZaProblemNajkracegPuta
+Diplomski rad
