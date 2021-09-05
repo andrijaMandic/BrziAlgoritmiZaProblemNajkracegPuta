@@ -1,0 +1,19 @@
+Data: USA-road-NY
+Nodes: 264346
+Edges: 730100
+ALT algorithm
+ALT_r-1
+
+Iterations: 1000
+Preprocessing time: 588 ms = 0.588 s
+Added edges: 0
+Query time: 47899 ms = 47.899 s
+
+Average query time: 47.899 ms
+Average SP time cost: 681014.1219999994 ms = 11.35 min
+Average number of settled nodes: 60952.57
+
+Min length: 34410 ms = 0.57 min
+Max length: 1988781 ms = 33.15 min
+Max settled: 219329
+Min settled: 126

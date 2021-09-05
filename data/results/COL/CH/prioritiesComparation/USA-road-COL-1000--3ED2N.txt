@@ -1,0 +1,1635 @@
+Data: USA-road-COL
+Nodes: 435666
+Edges: 1042400
+CH algorithm
+3ED2N
+
+Iterations: 1000
+Preprocessing time: 987907 ms = 987.907 s
+Added edges: 888866
+Query time: 3458 ms = 3.458 s
+
+Average query time: 3.458 ms
+Average SP time cost: 3946751.941000003 ms = 65.78 min
+Average number of settled nodes: 459.94
+
+Min length: 45236 ms = 0.75 min
+Max length: 11042244 ms = 184.04 min
+Max settled: 797
+Min settled: 19
+
+
+doTesting3 CH 1000
+Provedena kontrakcija nad 0 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.79, tmpEdges = 1042400, tmpNodes = 435666
+Provedena kontrakcija nad 2000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.79, tmpEdges = 1038400, tmpNodes = 433666
+Provedena kontrakcija nad 4000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.79, tmpEdges = 1034400, tmpNodes = 431666
+Provedena kontrakcija nad 6000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.80, tmpEdges = 1030400, tmpNodes = 429666
+Provedena kontrakcija nad 8000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.80, tmpEdges = 1026400, tmpNodes = 427666
+Provedena kontrakcija nad 10000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.80, tmpEdges = 1022400, tmpNodes = 425666
+Provedena kontrakcija nad 12000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.81, tmpEdges = 1018400, tmpNodes = 423666
+Provedena kontrakcija nad 14000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.81, tmpEdges = 1014400, tmpNodes = 421666
+Provedena kontrakcija nad 16000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.82, tmpEdges = 1010400, tmpNodes = 419666
+Provedena kontrakcija nad 18000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.82, tmpEdges = 1006400, tmpNodes = 417666
+Provedena kontrakcija nad 20000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.82, tmpEdges = 1002400, tmpNodes = 415666
+Provedena kontrakcija nad 22000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.83, tmpEdges = 998400, tmpNodes = 413666
+Provedena kontrakcija nad 24000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.83, tmpEdges = 994400, tmpNodes = 411666
+Provedena kontrakcija nad 26000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.84, tmpEdges = 990400, tmpNodes = 409666
+Provedena kontrakcija nad 28000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.84, tmpEdges = 986400, tmpNodes = 407666
+Provedena kontrakcija nad 30000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.84, tmpEdges = 982400, tmpNodes = 405666
+Provedena kontrakcija nad 32000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.85, tmpEdges = 978400, tmpNodes = 403666
+Provedena kontrakcija nad 34000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.85, tmpEdges = 974400, tmpNodes = 401666
+Provedena kontrakcija nad 36000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.86, tmpEdges = 970400, tmpNodes = 399666
+Provedena kontrakcija nad 38000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.86, tmpEdges = 966400, tmpNodes = 397666
+Provedena kontrakcija nad 40000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.86, tmpEdges = 962400, tmpNodes = 395666
+Provedena kontrakcija nad 42000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.87, tmpEdges = 958400, tmpNodes = 393666
+Provedena kontrakcija nad 44000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.87, tmpEdges = 954400, tmpNodes = 391666
+Provedena kontrakcija nad 46000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.88, tmpEdges = 950400, tmpNodes = 389666
+Provedena kontrakcija nad 48000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.88, tmpEdges = 946400, tmpNodes = 387666
+Provedena kontrakcija nad 50000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.89, tmpEdges = 942400, tmpNodes = 385666
+Provedena kontrakcija nad 52000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.89, tmpEdges = 938400, tmpNodes = 383666
+Provedena kontrakcija nad 54000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.90, tmpEdges = 934400, tmpNodes = 381666
+Provedena kontrakcija nad 56000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.90, tmpEdges = 930400, tmpNodes = 379666
+Provedena kontrakcija nad 58000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.91, tmpEdges = 926400, tmpNodes = 377666
+Provedena kontrakcija nad 60000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.91, tmpEdges = 922400, tmpNodes = 375666
+Provedena kontrakcija nad 62000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.92, tmpEdges = 918400, tmpNodes = 373666
+Provedena kontrakcija nad 64000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.92, tmpEdges = 914400, tmpNodes = 371666
+Provedena kontrakcija nad 66000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.93, tmpEdges = 910400, tmpNodes = 369666
+Provedena kontrakcija nad 68000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.93, tmpEdges = 906400, tmpNodes = 367666
+Provedena kontrakcija nad 70000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.94, tmpEdges = 902400, tmpNodes = 365666
+Provedena kontrakcija nad 72000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.94, tmpEdges = 898400, tmpNodes = 363666
+Provedena kontrakcija nad 74000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.95, tmpEdges = 894400, tmpNodes = 361666
+Provedena kontrakcija nad 76000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.95, tmpEdges = 890400, tmpNodes = 359666
+Provedena kontrakcija nad 78000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.96, tmpEdges = 886400, tmpNodes = 357666
+Provedena kontrakcija nad 80000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.96, tmpEdges = 882400, tmpNodes = 355666
+Provedena kontrakcija nad 82000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.97, tmpEdges = 878400, tmpNodes = 353666
+Provedena kontrakcija nad 84000 vrhova.
+	Ukupno bridova 1045124 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.97, tmpEdges = 874198, tmpNodes = 351666
+Provedena kontrakcija nad 86000 vrhova.
+	Ukupno bridova 1048860 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.98, tmpEdges = 869934, tmpNodes = 349666
+Provedena kontrakcija nad 88000 vrhova.
+	Ukupno bridova 1052632 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.98, tmpEdges = 865706, tmpNodes = 347666
+Provedena kontrakcija nad 90000 vrhova.
+	Ukupno bridova 1056308 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.98, tmpEdges = 861382, tmpNodes = 345666
+Provedena kontrakcija nad 92000 vrhova.
+	Ukupno bridova 1060194 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.99, tmpEdges = 857268, tmpNodes = 343666
+Provedena kontrakcija nad 94000 vrhova.
+	Ukupno bridova 1064052 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.99, tmpEdges = 853126, tmpNodes = 341666
+Provedena kontrakcija nad 96000 vrhova.
+	Ukupno bridova 1067860 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.00, tmpEdges = 848934, tmpNodes = 339666
+Provedena kontrakcija nad 98000 vrhova.
+	Ukupno bridova 1071722 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.00, tmpEdges = 844796, tmpNodes = 337666
+Provedena kontrakcija nad 100000 vrhova.
+	Ukupno bridova 1075618 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.01, tmpEdges = 840692, tmpNodes = 335666
+Provedena kontrakcija nad 102000 vrhova.
+	Ukupno bridova 1079552 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.01, tmpEdges = 836626, tmpNodes = 333666
+Provedena kontrakcija nad 104000 vrhova.
+	Ukupno bridova 1083330 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.02, tmpEdges = 832404, tmpNodes = 331666
+Provedena kontrakcija nad 106000 vrhova.
+	Ukupno bridova 1087186 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.02, tmpEdges = 828260, tmpNodes = 329666
+Provedena kontrakcija nad 108000 vrhova.
+	Ukupno bridova 1091048 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.03, tmpEdges = 824122, tmpNodes = 327666
+Provedena kontrakcija nad 110000 vrhova.
+	Ukupno bridova 1094928 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.04, tmpEdges = 820002, tmpNodes = 325666
+Provedena kontrakcija nad 112000 vrhova.
+	Ukupno bridova 1098708 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.04, tmpEdges = 815782, tmpNodes = 323666
+Provedena kontrakcija nad 114000 vrhova.
+	Ukupno bridova 1102478 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.05, tmpEdges = 811552, tmpNodes = 321666
+Provedena kontrakcija nad 116000 vrhova.
+	Ukupno bridova 1106400 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.05, tmpEdges = 807474, tmpNodes = 319666
+Provedena kontrakcija nad 118000 vrhova.
+	Ukupno bridova 1110258 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.06, tmpEdges = 803332, tmpNodes = 317666
+Provedena kontrakcija nad 120000 vrhova.
+	Ukupno bridova 1114112 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.06, tmpEdges = 799186, tmpNodes = 315666
+Provedena kontrakcija nad 122000 vrhova.
+	Ukupno bridova 1118004 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.07, tmpEdges = 795078, tmpNodes = 313666
+Provedena kontrakcija nad 124000 vrhova.
+	Ukupno bridova 1121782 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.08, tmpEdges = 790856, tmpNodes = 311666
+Provedena kontrakcija nad 126000 vrhova.
+	Ukupno bridova 1125446 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.08, tmpEdges = 786520, tmpNodes = 309666
+Provedena kontrakcija nad 128000 vrhova.
+	Ukupno bridova 1129322 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.09, tmpEdges = 782396, tmpNodes = 307666
+Provedena kontrakcija nad 130000 vrhova.
+	Ukupno bridova 1133204 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.09, tmpEdges = 778278, tmpNodes = 305666
+Provedena kontrakcija nad 132000 vrhova.
+	Ukupno bridova 1137096 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.10, tmpEdges = 774170, tmpNodes = 303666
+Provedena kontrakcija nad 134000 vrhova.
+	Ukupno bridova 1140922 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.10, tmpEdges = 769996, tmpNodes = 301666
+Provedena kontrakcija nad 136000 vrhova.
+	Ukupno bridova 1144750 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.11, tmpEdges = 765824, tmpNodes = 299666
+Provedena kontrakcija nad 138000 vrhova.
+	Ukupno bridova 1148648 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.12, tmpEdges = 761722, tmpNodes = 297666
+Provedena kontrakcija nad 140000 vrhova.
+	Ukupno bridova 1152570 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.12, tmpEdges = 757644, tmpNodes = 295666
+Provedena kontrakcija nad 142000 vrhova.
+	Ukupno bridova 1156466 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.13, tmpEdges = 753540, tmpNodes = 293666
+Provedena kontrakcija nad 144000 vrhova.
+	Ukupno bridova 1160236 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.14, tmpEdges = 749310, tmpNodes = 291666
+Provedena kontrakcija nad 146000 vrhova.
+	Ukupno bridova 1164134 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.15, tmpEdges = 745208, tmpNodes = 289666
+Provedena kontrakcija nad 148000 vrhova.
+	Ukupno bridova 1168002 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.15, tmpEdges = 741076, tmpNodes = 287666
+Provedena kontrakcija nad 150000 vrhova.
+	Ukupno bridova 1171884 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.16, tmpEdges = 736958, tmpNodes = 285666
+Provedena kontrakcija nad 152000 vrhova.
+	Ukupno bridova 1175748 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.17, tmpEdges = 732822, tmpNodes = 283666
+Provedena kontrakcija nad 154000 vrhova.
+	Ukupno bridova 1179624 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.17, tmpEdges = 728698, tmpNodes = 281666
+Provedena kontrakcija nad 156000 vrhova.
+	Ukupno bridova 1183510 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.18, tmpEdges = 724584, tmpNodes = 279666
+Provedena kontrakcija nad 158000 vrhova.
+	Ukupno bridova 1187318 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.19, tmpEdges = 720392, tmpNodes = 277666
+Provedena kontrakcija nad 160000 vrhova.
+	Ukupno bridova 1191230 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.20, tmpEdges = 716304, tmpNodes = 275666
+Provedena kontrakcija nad 162000 vrhova.
+	Ukupno bridova 1195150 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.21, tmpEdges = 712224, tmpNodes = 273666
+Provedena kontrakcija nad 164000 vrhova.
+	Ukupno bridova 1199044 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.21, tmpEdges = 708118, tmpNodes = 271666
+Provedena kontrakcija nad 166000 vrhova.
+	Ukupno bridova 1202908 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.22, tmpEdges = 703982, tmpNodes = 269666
+Provedena kontrakcija nad 168000 vrhova.
+	Ukupno bridova 1206838 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.23, tmpEdges = 699912, tmpNodes = 267666
+Provedena kontrakcija nad 170000 vrhova.
+	Ukupno bridova 1210734 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.24, tmpEdges = 695808, tmpNodes = 265666
+Provedena kontrakcija nad 172000 vrhova.
+	Ukupno bridova 1214612 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.25, tmpEdges = 691686, tmpNodes = 263666
+Provedena kontrakcija nad 174000 vrhova.
+	Ukupno bridova 1218384 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.26, tmpEdges = 687572, tmpNodes = 261666
+Provedena kontrakcija nad 176000 vrhova.
+	Ukupno bridova 1218384 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.27, tmpEdges = 683572, tmpNodes = 259666
+Provedena kontrakcija nad 178000 vrhova.
+	Ukupno bridova 1218384 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.27, tmpEdges = 679572, tmpNodes = 257666
+Provedena kontrakcija nad 180000 vrhova.
+	Ukupno bridova 1218384 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.28, tmpEdges = 675572, tmpNodes = 255666
+Provedena kontrakcija nad 182000 vrhova.
+	Ukupno bridova 1218384 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.29, tmpEdges = 671572, tmpNodes = 253666
+Provedena kontrakcija nad 184000 vrhova.
+	Ukupno bridova 1218384 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.31, tmpEdges = 667572, tmpNodes = 251666
+Provedena kontrakcija nad 186000 vrhova.
+	Ukupno bridova 1218384 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.32, tmpEdges = 663572, tmpNodes = 249666
+Provedena kontrakcija nad 188000 vrhova.
+	Ukupno bridova 1221630 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.32, tmpEdges = 659162, tmpNodes = 247666
+Provedena kontrakcija nad 190000 vrhova.
+	Ukupno bridova 1225154 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.33, tmpEdges = 654686, tmpNodes = 245666
+Provedena kontrakcija nad 192000 vrhova.
+	Ukupno bridova 1228752 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.34, tmpEdges = 650284, tmpNodes = 243666
+Provedena kontrakcija nad 194000 vrhova.
+	Ukupno bridova 1232300 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.34, tmpEdges = 645832, tmpNodes = 241666
+Provedena kontrakcija nad 196000 vrhova.
+	Ukupno bridova 1235856 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.35, tmpEdges = 641388, tmpNodes = 239666
+Provedena kontrakcija nad 198000 vrhova.
+	Ukupno bridova 1239516 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.36, tmpEdges = 637048, tmpNodes = 237666
+Provedena kontrakcija nad 200000 vrhova.
+	Ukupno bridova 1243078 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.37, tmpEdges = 632610, tmpNodes = 235666
+Provedena kontrakcija nad 202000 vrhova.
+	Ukupno bridova 1246702 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.38, tmpEdges = 628234, tmpNodes = 233666
+Provedena kontrakcija nad 204000 vrhova.
+	Ukupno bridova 1250146 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.38, tmpEdges = 623678, tmpNodes = 231666
+Provedena kontrakcija nad 206000 vrhova.
+	Ukupno bridova 1253716 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.39, tmpEdges = 619248, tmpNodes = 229666
+Provedena kontrakcija nad 208000 vrhova.
+	Ukupno bridova 1257252 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.40, tmpEdges = 614784, tmpNodes = 227666
+Provedena kontrakcija nad 210000 vrhova.
+	Ukupno bridova 1260780 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.41, tmpEdges = 610312, tmpNodes = 225666
+Provedena kontrakcija nad 212000 vrhova.
+	Ukupno bridova 1264334 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.42, tmpEdges = 605866, tmpNodes = 223666
+Provedena kontrakcija nad 214000 vrhova.
+	Ukupno bridova 1267986 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.43, tmpEdges = 601518, tmpNodes = 221666
+Provedena kontrakcija nad 216000 vrhova.
+	Ukupno bridova 1271608 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.44, tmpEdges = 597140, tmpNodes = 219666
+Provedena kontrakcija nad 218000 vrhova.
+	Ukupno bridova 1275270 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.45, tmpEdges = 592802, tmpNodes = 217666
+Provedena kontrakcija nad 220000 vrhova.
+	Ukupno bridova 1278896 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.46, tmpEdges = 588428, tmpNodes = 215666
+Provedena kontrakcija nad 222000 vrhova.
+	Ukupno bridova 1282510 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.47, tmpEdges = 584042, tmpNodes = 213666
+Provedena kontrakcija nad 224000 vrhova.
+	Ukupno bridova 1286140 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.48, tmpEdges = 579672, tmpNodes = 211666
+Provedena kontrakcija nad 226000 vrhova.
+	Ukupno bridova 1289776 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.49, tmpEdges = 575308, tmpNodes = 209666
+Provedena kontrakcija nad 228000 vrhova.
+	Ukupno bridova 1293364 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.50, tmpEdges = 570896, tmpNodes = 207666
+Provedena kontrakcija nad 230000 vrhova.
+	Ukupno bridova 1296948 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.51, tmpEdges = 566480, tmpNodes = 205666
+Provedena kontrakcija nad 232000 vrhova.
+	Ukupno bridova 1300664 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.52, tmpEdges = 562196, tmpNodes = 203666
+Provedena kontrakcija nad 234000 vrhova.
+	Ukupno bridova 1303628 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.53, tmpEdges = 557896, tmpNodes = 201666
+Provedena kontrakcija nad 236000 vrhova.
+	Ukupno bridova 1303996 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.55, tmpEdges = 553834, tmpNodes = 199666
+Provedena kontrakcija nad 238000 vrhova.
+	Ukupno bridova 1304412 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.56, tmpEdges = 549766, tmpNodes = 197666
+Provedena kontrakcija nad 240000 vrhova.
+	Ukupno bridova 1304798 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.58, tmpEdges = 545674, tmpNodes = 195666
+Provedena kontrakcija nad 242000 vrhova.
+	Ukupno bridova 1305090 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.59, tmpEdges = 541606, tmpNodes = 193666
+Provedena kontrakcija nad 244000 vrhova.
+	Ukupno bridova 1305394 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.61, tmpEdges = 537518, tmpNodes = 191666
+Provedena kontrakcija nad 246000 vrhova.
+	Ukupno bridova 1306638 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.62, tmpEdges = 533220, tmpNodes = 189666
+Provedena kontrakcija nad 248000 vrhova.
+	Ukupno bridova 1310028 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.63, tmpEdges = 528610, tmpNodes = 187666
+Provedena kontrakcija nad 250000 vrhova.
+	Ukupno bridova 1313544 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.65, tmpEdges = 524128, tmpNodes = 185666
+Provedena kontrakcija nad 252000 vrhova.
+	Ukupno bridova 1317092 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.66, tmpEdges = 519676, tmpNodes = 183666
+Provedena kontrakcija nad 254000 vrhova.
+	Ukupno bridova 1320636 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.67, tmpEdges = 515220, tmpNodes = 181666
+Provedena kontrakcija nad 256000 vrhova.
+	Ukupno bridova 1324006 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.68, tmpEdges = 510594, tmpNodes = 179666
+Provedena kontrakcija nad 258000 vrhova.
+	Ukupno bridova 1327550 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.70, tmpEdges = 506140, tmpNodes = 177666
+Provedena kontrakcija nad 260000 vrhova.
+	Ukupno bridova 1331002 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.71, tmpEdges = 501594, tmpNodes = 175666
+Provedena kontrakcija nad 262000 vrhova.
+	Ukupno bridova 1334636 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.73, tmpEdges = 497228, tmpNodes = 173666
+Provedena kontrakcija nad 264000 vrhova.
+	Ukupno bridova 1338226 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.74, tmpEdges = 492818, tmpNodes = 171666
+Provedena kontrakcija nad 266000 vrhova.
+	Ukupno bridova 1341802 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.76, tmpEdges = 488396, tmpNodes = 169666
+Provedena kontrakcija nad 268000 vrhova.
+	Ukupno bridova 1345340 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.77, tmpEdges = 483938, tmpNodes = 167666
+Provedena kontrakcija nad 270000 vrhova.
+	Ukupno bridova 1348880 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.79, tmpEdges = 479478, tmpNodes = 165666
+Provedena kontrakcija nad 272000 vrhova.
+	Ukupno bridova 1352436 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.80, tmpEdges = 475036, tmpNodes = 163666
+Provedena kontrakcija nad 274000 vrhova.
+	Ukupno bridova 1356550 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.82, tmpEdges = 470798, tmpNodes = 161666
+Provedena kontrakcija nad 276000 vrhova.
+	Ukupno bridova 1364640 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.86, tmpEdges = 467723, tmpNodes = 159666
+Provedena kontrakcija nad 278000 vrhova.
+	Ukupno bridova 1371645 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.89, tmpEdges = 464459, tmpNodes = 157666
+Provedena kontrakcija nad 280000 vrhova.
+	Ukupno bridova 1378006 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.92, tmpEdges = 461123, tmpNodes = 155666
+Provedena kontrakcija nad 282000 vrhova.
+	Ukupno bridova 1386619 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.96, tmpEdges = 458096, tmpNodes = 153666
+Provedena kontrakcija nad 284000 vrhova.
+	Ukupno bridova 1392763 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.00, tmpEdges = 454685, tmpNodes = 151666
+Provedena kontrakcija nad 286000 vrhova.
+	Ukupno bridova 1398275 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.03, tmpEdges = 451083, tmpNodes = 149666
+Provedena kontrakcija nad 288000 vrhova.
+	Ukupno bridova 1405259 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.07, tmpEdges = 447821, tmpNodes = 147666
+Provedena kontrakcija nad 290000 vrhova.
+	Ukupno bridova 1411163 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.10, tmpEdges = 444349, tmpNodes = 145666
+Provedena kontrakcija nad 292000 vrhova.
+	Ukupno bridova 1416560 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.14, tmpEdges = 440724, tmpNodes = 143666
+Provedena kontrakcija nad 294000 vrhova.
+	Ukupno bridova 1421814 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.17, tmpEdges = 436983, tmpNodes = 141666
+Provedena kontrakcija nad 296000 vrhova.
+	Ukupno bridova 1428416 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.21, tmpEdges = 433540, tmpNodes = 139666
+Provedena kontrakcija nad 298000 vrhova.
+	Ukupno bridova 1434351 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.25, tmpEdges = 429997, tmpNodes = 137666
+Provedena kontrakcija nad 300000 vrhova.
+	Ukupno bridova 1437582 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.27, tmpEdges = 425236, tmpNodes = 135666
+Provedena kontrakcija nad 302000 vrhova.
+	Ukupno bridova 1441018 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.29, tmpEdges = 420674, tmpNodes = 133666
+Provedena kontrakcija nad 304000 vrhova.
+	Ukupno bridova 1444298 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.32, tmpEdges = 415962, tmpNodes = 131666
+Provedena kontrakcija nad 306000 vrhova.
+	Ukupno bridova 1447652 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.34, tmpEdges = 411324, tmpNodes = 129666
+Provedena kontrakcija nad 308000 vrhova.
+	Ukupno bridova 1451050 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.37, tmpEdges = 406726, tmpNodes = 127666
+Provedena kontrakcija nad 310000 vrhova.
+	Ukupno bridova 1454474 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.40, tmpEdges = 402152, tmpNodes = 125666
+Provedena kontrakcija nad 312000 vrhova.
+	Ukupno bridova 1457916 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.43, tmpEdges = 397594, tmpNodes = 123666
+Provedena kontrakcija nad 314000 vrhova.
+	Ukupno bridova 1461370 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.46, tmpEdges = 393054, tmpNodes = 121666
+Provedena kontrakcija nad 316000 vrhova.
+	Ukupno bridova 1467945 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.50, tmpEdges = 389195, tmpNodes = 119666
+Provedena kontrakcija nad 318000 vrhova.
+	Ukupno bridova 1474439 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.55, tmpEdges = 385401, tmpNodes = 117666
+Provedena kontrakcija nad 320000 vrhova.
+	Ukupno bridova 1481134 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.60, tmpEdges = 381629, tmpNodes = 115666
+Provedena kontrakcija nad 322000 vrhova.
+	Ukupno bridova 1486791 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.65, tmpEdges = 377845, tmpNodes = 113666
+Provedena kontrakcija nad 324000 vrhova.
+	Ukupno bridova 1492774 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.70, tmpEdges = 374045, tmpNodes = 111666
+Provedena kontrakcija nad 326000 vrhova.
+	Ukupno bridova 1498732 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.75, tmpEdges = 370310, tmpNodes = 109666
+Provedena kontrakcija nad 328000 vrhova.
+	Ukupno bridova 1504903 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.81, tmpEdges = 366461, tmpNodes = 107666
+Provedena kontrakcija nad 330000 vrhova.
+	Ukupno bridova 1508758 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.85, tmpEdges = 361792, tmpNodes = 105666
+Provedena kontrakcija nad 332000 vrhova.
+	Ukupno bridova 1512044 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.89, tmpEdges = 357076, tmpNodes = 103666
+Provedena kontrakcija nad 334000 vrhova.
+	Ukupno bridova 1515290 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.93, tmpEdges = 352322, tmpNodes = 101666
+Provedena kontrakcija nad 336000 vrhova.
+	Ukupno bridova 1518642 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.98, tmpEdges = 347670, tmpNodes = 99666
+Provedena kontrakcija nad 338000 vrhova.
+	Ukupno bridova 1522553 bridova.
+	Trenutni prosjecni stupanj vrhova: 7.02, tmpEdges = 343000, tmpNodes = 97666
+Provedena kontrakcija nad 340000 vrhova.
+	Ukupno bridova 1528943 bridova.
+	Trenutni prosjecni stupanj vrhova: 7.08, tmpEdges = 338737, tmpNodes = 95666
+Provedena kontrakcija nad 342000 vrhova.
+	Ukupno bridova 1534896 bridova.
+	Trenutni prosjecni stupanj vrhova: 7.14, tmpEdges = 334258, tmpNodes = 93666
+Provedena kontrakcija nad 344000 vrhova.
+	Ukupno bridova 1540971 bridova.
+	Trenutni prosjecni stupanj vrhova: 7.20, tmpEdges = 330061, tmpNodes = 91666
+Provedena kontrakcija nad 346000 vrhova.
+	Ukupno bridova 1547036 bridova.
+	Trenutni prosjecni stupanj vrhova: 7.27, tmpEdges = 325962, tmpNodes = 89666
+Provedena kontrakcija nad 348000 vrhova.
+	Ukupno bridova 1552911 bridova.
+	Trenutni prosjecni stupanj vrhova: 7.33, tmpEdges = 321495, tmpNodes = 87666
+Provedena kontrakcija nad 350000 vrhova.
+	Ukupno bridova 1555972 bridova.
+	Trenutni prosjecni stupanj vrhova: 7.39, tmpEdges = 316544, tmpNodes = 85666
+Provedena kontrakcija nad 352000 vrhova.
+	Ukupno bridova 1559038 bridova.
+	Trenutni prosjecni stupanj vrhova: 7.45, tmpEdges = 311604, tmpNodes = 83666
+Provedena kontrakcija nad 354000 vrhova.
+	Ukupno bridova 1563702 bridova.
+	Trenutni prosjecni stupanj vrhova: 7.51, tmpEdges = 306722, tmpNodes = 81666
+Provedena kontrakcija nad 356000 vrhova.
+	Ukupno bridova 1569625 bridova.
+	Trenutni prosjecni stupanj vrhova: 7.58, tmpEdges = 301899, tmpNodes = 79666
+Provedena kontrakcija nad 358000 vrhova.
+	Ukupno bridova 1575556 bridova.
+	Trenutni prosjecni stupanj vrhova: 7.66, tmpEdges = 297324, tmpNodes = 77666
+Provedena kontrakcija nad 360000 vrhova.
+	Ukupno bridova 1581493 bridova.
+	Trenutni prosjecni stupanj vrhova: 7.74, tmpEdges = 292682, tmpNodes = 75666
+Provedena kontrakcija nad 362000 vrhova.
+	Ukupno bridova 1591529 bridova.
+	Trenutni prosjecni stupanj vrhova: 7.87, tmpEdges = 289922, tmpNodes = 73666
+Provedena kontrakcija nad 364000 vrhova.
+	Ukupno bridova 1600699 bridova.
+	Trenutni prosjecni stupanj vrhova: 8.01, tmpEdges = 286998, tmpNodes = 71666
+Provedena kontrakcija nad 366000 vrhova.
+	Ukupno bridova 1608069 bridova.
+	Trenutni prosjecni stupanj vrhova: 8.14, tmpEdges = 283472, tmpNodes = 69666
+Provedena kontrakcija nad 368000 vrhova.
+	Ukupno bridova 1614523 bridova.
+	Trenutni prosjecni stupanj vrhova: 8.24, tmpEdges = 278644, tmpNodes = 67666
+Provedena kontrakcija nad 370000 vrhova.
+	Ukupno bridova 1619987 bridova.
+	Trenutni prosjecni stupanj vrhova: 8.33, tmpEdges = 273360, tmpNodes = 65666
+Provedena kontrakcija nad 372000 vrhova.
+	Ukupno bridova 1625824 bridova.
+	Trenutni prosjecni stupanj vrhova: 8.43, tmpEdges = 268319, tmpNodes = 63666
+Provedena kontrakcija nad 374000 vrhova.
+	Ukupno bridova 1635312 bridova.
+	Trenutni prosjecni stupanj vrhova: 8.59, tmpEdges = 264839, tmpNodes = 61666
+Provedena kontrakcija nad 376000 vrhova.
+	Ukupno bridova 1642780 bridova.
+	Trenutni prosjecni stupanj vrhova: 8.74, tmpEdges = 260743, tmpNodes = 59666
+Provedena kontrakcija nad 378000 vrhova.
+	Ukupno bridova 1648042 bridova.
+	Trenutni prosjecni stupanj vrhova: 8.84, tmpEdges = 254937, tmpNodes = 57666
+Provedena kontrakcija nad 380000 vrhova.
+	Ukupno bridova 1653611 bridova.
+	Trenutni prosjecni stupanj vrhova: 8.96, tmpEdges = 249449, tmpNodes = 55666
+Provedena kontrakcija nad 382000 vrhova.
+	Ukupno bridova 1662627 bridova.
+	Trenutni prosjecni stupanj vrhova: 9.13, tmpEdges = 244939, tmpNodes = 53666
+Provedena kontrakcija nad 384000 vrhova.
+	Ukupno bridova 1670511 bridova.
+	Trenutni prosjecni stupanj vrhova: 9.29, tmpEdges = 240093, tmpNodes = 51666
+Provedena kontrakcija nad 386000 vrhova.
+	Ukupno bridova 1675636 bridova.
+	Trenutni prosjecni stupanj vrhova: 9.42, tmpEdges = 233974, tmpNodes = 49666
+Provedena kontrakcija nad 388000 vrhova.
+	Ukupno bridova 1683146 bridova.
+	Trenutni prosjecni stupanj vrhova: 9.58, tmpEdges = 228300, tmpNodes = 47666
+Provedena kontrakcija nad 390000 vrhova.
+	Ukupno bridova 1691609 bridova.
+	Trenutni prosjecni stupanj vrhova: 9.77, tmpEdges = 222978, tmpNodes = 45666
+Provedena kontrakcija nad 392000 vrhova.
+	Ukupno bridova 1696797 bridova.
+	Trenutni prosjecni stupanj vrhova: 9.93, tmpEdges = 216772, tmpNodes = 43666
+Provedena kontrakcija nad 394000 vrhova.
+	Ukupno bridova 1705066 bridova.
+	Trenutni prosjecni stupanj vrhova: 10.11, tmpEdges = 210671, tmpNodes = 41666
+Provedena kontrakcija nad 396000 vrhova.
+	Ukupno bridova 1711858 bridova.
+	Trenutni prosjecni stupanj vrhova: 10.32, tmpEdges = 204630, tmpNodes = 39666
+Provedena kontrakcija nad 398000 vrhova.
+	Ukupno bridova 1719545 bridova.
+	Trenutni prosjecni stupanj vrhova: 10.52, tmpEdges = 198086, tmpNodes = 37666
+Provedena kontrakcija nad 400000 vrhova.
+	Ukupno bridova 1725983 bridova.
+	Trenutni prosjecni stupanj vrhova: 10.73, tmpEdges = 191355, tmpNodes = 35666
+Provedena kontrakcija nad 402000 vrhova.
+	Ukupno bridova 1734018 bridova.
+	Trenutni prosjecni stupanj vrhova: 10.97, tmpEdges = 184646, tmpNodes = 33666
+Provedena kontrakcija nad 404000 vrhova.
+	Ukupno bridova 1741961 bridova.
+	Trenutni prosjecni stupanj vrhova: 11.25, tmpEdges = 178068, tmpNodes = 31666
+Provedena kontrakcija nad 406000 vrhova.
+	Ukupno bridova 1751832 bridova.
+	Trenutni prosjecni stupanj vrhova: 11.61, tmpEdges = 172177, tmpNodes = 29666
+Provedena kontrakcija nad 408000 vrhova.
+	Ukupno bridova 1761853 bridova.
+	Trenutni prosjecni stupanj vrhova: 11.99, tmpEdges = 165826, tmpNodes = 27666
+Provedena kontrakcija nad 410000 vrhova.
+	Ukupno bridova 1771589 bridova.
+	Trenutni prosjecni stupanj vrhova: 12.37, tmpEdges = 158753, tmpNodes = 25666
+Provedena kontrakcija nad 412000 vrhova.
+	Ukupno bridova 1780557 bridova.
+	Trenutni prosjecni stupanj vrhova: 12.76, tmpEdges = 150931, tmpNodes = 23666
+Provedena kontrakcija nad 414000 vrhova.
+	Ukupno bridova 1789647 bridova.
+	Trenutni prosjecni stupanj vrhova: 13.15, tmpEdges = 142478, tmpNodes = 21666
+Provedena kontrakcija nad 416000 vrhova.
+	Ukupno bridova 1799102 bridova.
+	Trenutni prosjecni stupanj vrhova: 13.63, tmpEdges = 134010, tmpNodes = 19666
+Provedena kontrakcija nad 418000 vrhova.
+	Ukupno bridova 1810565 bridova.
+	Trenutni prosjecni stupanj vrhova: 14.24, tmpEdges = 125820, tmpNodes = 17666
+Provedena kontrakcija nad 420000 vrhova.
+	Ukupno bridova 1821321 bridova.
+	Trenutni prosjecni stupanj vrhova: 14.85, tmpEdges = 116286, tmpNodes = 15666
+Provedena kontrakcija nad 422000 vrhova.
+	Ukupno bridova 1832499 bridova.
+	Trenutni prosjecni stupanj vrhova: 15.56, tmpEdges = 106336, tmpNodes = 13666
+Provedena kontrakcija nad 424000 vrhova.
+	Ukupno bridova 1843616 bridova.
+	Trenutni prosjecni stupanj vrhova: 16.39, tmpEdges = 95599, tmpNodes = 11666
+Provedena kontrakcija nad 426000 vrhova.
+	Ukupno bridova 1857154 bridova.
+	Trenutni prosjecni stupanj vrhova: 17.56, tmpEdges = 84882, tmpNodes = 9666
+Provedena kontrakcija nad 428000 vrhova.
+	Ukupno bridova 1870251 bridova.
+	Trenutni prosjecni stupanj vrhova: 18.90, tmpEdges = 72461, tmpNodes = 7666
+Provedena kontrakcija nad 430000 vrhova.
+	Ukupno bridova 1885174 bridova.
+	Trenutni prosjecni stupanj vrhova: 20.95, tmpEdges = 59346, tmpNodes = 5666
+Provedena kontrakcija nad 432000 vrhova.
+	Ukupno bridova 1900282 bridova.
+	Trenutni prosjecni stupanj vrhova: 23.71, tmpEdges = 43464, tmpNodes = 3666
+Provedena kontrakcija nad 434000 vrhova.
+	Ukupno bridova 1916694 bridova.
+	Trenutni prosjecni stupanj vrhova: 28.86, tmpEdges = 24038, tmpNodes = 1666
+Provedena kontrakcija nad 435617 vrhova.
+	Ukupno bridova 1931102 bridova.
+	Trenutni prosjecni stupanj vrhova: 41.39, tmpEdges = 1014, tmpNodes = 49
+Provedena kontrakcija nad 435618 vrhova.
+	Ukupno bridova 1931114 bridova.
+	Trenutni prosjecni stupanj vrhova: 41.58, tmpEdges = 998, tmpNodes = 48
+Provedena kontrakcija nad 435619 vrhova.
+	Ukupno bridova 1931122 bridova.
+	Trenutni prosjecni stupanj vrhova: 41.45, tmpEdges = 974, tmpNodes = 47
+Provedena kontrakcija nad 435620 vrhova.
+	Ukupno bridova 1931122 bridova.
+	Trenutni prosjecni stupanj vrhova: 40.96, tmpEdges = 942, tmpNodes = 46
+Provedena kontrakcija nad 435621 vrhova.
+	Ukupno bridova 1931122 bridova.
+	Trenutni prosjecni stupanj vrhova: 40.53, tmpEdges = 912, tmpNodes = 45
+Provedena kontrakcija nad 435622 vrhova.
+	Ukupno bridova 1931152 bridova.
+	Trenutni prosjecni stupanj vrhova: 41.45, tmpEdges = 912, tmpNodes = 44
+Provedena kontrakcija nad 435623 vrhova.
+	Ukupno bridova 1931156 bridova.
+	Trenutni prosjecni stupanj vrhova: 41.02, tmpEdges = 882, tmpNodes = 43
+Provedena kontrakcija nad 435624 vrhova.
+	Ukupno bridova 1931156 bridova.
+	Trenutni prosjecni stupanj vrhova: 40.38, tmpEdges = 848, tmpNodes = 42
+Provedena kontrakcija nad 435625 vrhova.
+	Ukupno bridova 1931156 bridova.
+	Trenutni prosjecni stupanj vrhova: 39.80, tmpEdges = 816, tmpNodes = 41
+Provedena kontrakcija nad 435626 vrhova.
+	Ukupno bridova 1931156 bridova.
+	Trenutni prosjecni stupanj vrhova: 39.40, tmpEdges = 788, tmpNodes = 40
+Provedena kontrakcija nad 435627 vrhova.
+	Ukupno bridova 1931160 bridova.
+	Trenutni prosjecni stupanj vrhova: 39.18, tmpEdges = 764, tmpNodes = 39
+Provedena kontrakcija nad 435628 vrhova.
+	Ukupno bridova 1931160 bridova.
+	Trenutni prosjecni stupanj vrhova: 38.74, tmpEdges = 736, tmpNodes = 38
+Provedena kontrakcija nad 435629 vrhova.
+	Ukupno bridova 1931162 bridova.
+	Trenutni prosjecni stupanj vrhova: 38.38, tmpEdges = 710, tmpNodes = 37
+Provedena kontrakcija nad 435630 vrhova.
+	Ukupno bridova 1931166 bridova.
+	Trenutni prosjecni stupanj vrhova: 38.22, tmpEdges = 688, tmpNodes = 36
+Provedena kontrakcija nad 435631 vrhova.
+	Ukupno bridova 1931166 bridova.
+	Trenutni prosjecni stupanj vrhova: 37.94, tmpEdges = 664, tmpNodes = 35
+Provedena kontrakcija nad 435632 vrhova.
+	Ukupno bridova 1931166 bridova.
+	Trenutni prosjecni stupanj vrhova: 37.53, tmpEdges = 638, tmpNodes = 34
+Provedena kontrakcija nad 435633 vrhova.
+	Ukupno bridova 1931168 bridova.
+	Trenutni prosjecni stupanj vrhova: 37.09, tmpEdges = 612, tmpNodes = 33
+Provedena kontrakcija nad 435634 vrhova.
+	Ukupno bridova 1931168 bridova.
+	Trenutni prosjecni stupanj vrhova: 36.63, tmpEdges = 586, tmpNodes = 32
+Provedena kontrakcija nad 435635 vrhova.
+	Ukupno bridova 1931182 bridova.
+	Trenutni prosjecni stupanj vrhova: 37.03, tmpEdges = 574, tmpNodes = 31
+Provedena kontrakcija nad 435636 vrhova.
+	Ukupno bridova 1931182 bridova.
+	Trenutni prosjecni stupanj vrhova: 36.67, tmpEdges = 550, tmpNodes = 30
+Provedena kontrakcija nad 435637 vrhova.
+	Ukupno bridova 1931192 bridova.
+	Trenutni prosjecni stupanj vrhova: 36.69, tmpEdges = 532, tmpNodes = 29
+Provedena kontrakcija nad 435638 vrhova.
+	Ukupno bridova 1931204 bridova.
+	Trenutni prosjecni stupanj vrhova: 36.57, tmpEdges = 512, tmpNodes = 28
+Provedena kontrakcija nad 435639 vrhova.
+	Ukupno bridova 1931216 bridova.
+	Trenutni prosjecni stupanj vrhova: 36.74, tmpEdges = 496, tmpNodes = 27
+Provedena kontrakcija nad 435640 vrhova.
+	Ukupno bridova 1931216 bridova.
+	Trenutni prosjecni stupanj vrhova: 35.85, tmpEdges = 466, tmpNodes = 26
+Provedena kontrakcija nad 435641 vrhova.
+	Ukupno bridova 1931240 bridova.
+	Trenutni prosjecni stupanj vrhova: 36.80, tmpEdges = 460, tmpNodes = 25
+Provedena kontrakcija nad 435642 vrhova.
+	Ukupno bridova 1931240 bridova.
+	Trenutni prosjecni stupanj vrhova: 36.33, tmpEdges = 436, tmpNodes = 24
+Provedena kontrakcija nad 435643 vrhova.
+	Ukupno bridova 1931240 bridova.
+	Trenutni prosjecni stupanj vrhova: 35.13, tmpEdges = 404, tmpNodes = 23
+Provedena kontrakcija nad 435644 vrhova.
+	Ukupno bridova 1931246 bridova.
+	Trenutni prosjecni stupanj vrhova: 34.36, tmpEdges = 378, tmpNodes = 22
+Provedena kontrakcija nad 435645 vrhova.
+	Ukupno bridova 1931246 bridova.
+	Trenutni prosjecni stupanj vrhova: 33.14, tmpEdges = 348, tmpNodes = 21
+Provedena kontrakcija nad 435646 vrhova.
+	Ukupno bridova 1931246 bridova.
+	Trenutni prosjecni stupanj vrhova: 32.20, tmpEdges = 322, tmpNodes = 20
+Provedena kontrakcija nad 435647 vrhova.
+	Ukupno bridova 1931256 bridova.
+	Trenutni prosjecni stupanj vrhova: 32.00, tmpEdges = 304, tmpNodes = 19
+Provedena kontrakcija nad 435648 vrhova.
+	Ukupno bridova 1931258 bridova.
+	Trenutni prosjecni stupanj vrhova: 30.67, tmpEdges = 276, tmpNodes = 18
+Provedena kontrakcija nad 435649 vrhova.
+	Ukupno bridova 1931260 bridova.
+	Trenutni prosjecni stupanj vrhova: 29.65, tmpEdges = 252, tmpNodes = 17
+Provedena kontrakcija nad 435650 vrhova.
+	Ukupno bridova 1931266 bridova.
+	Trenutni prosjecni stupanj vrhova: 28.75, tmpEdges = 230, tmpNodes = 16
+Provedena kontrakcija nad 435651 vrhova.
+	Ukupno bridova 1931266 bridova.
+	Trenutni prosjecni stupanj vrhova: 27.20, tmpEdges = 204, tmpNodes = 15
+Provedena kontrakcija nad 435652 vrhova.
+	Ukupno bridova 1931266 bridova.
+	Trenutni prosjecni stupanj vrhova: 25.43, tmpEdges = 178, tmpNodes = 14
+Provedena kontrakcija nad 435653 vrhova.
+	Ukupno bridova 1931266 bridova.
+	Trenutni prosjecni stupanj vrhova: 23.69, tmpEdges = 154, tmpNodes = 13
+Provedena kontrakcija nad 435654 vrhova.
+	Ukupno bridova 1931266 bridova.
+	Trenutni prosjecni stupanj vrhova: 22.00, tmpEdges = 132, tmpNodes = 12
+Provedena kontrakcija nad 435655 vrhova.
+	Ukupno bridova 1931266 bridova.
+	Trenutni prosjecni stupanj vrhova: 20.00, tmpEdges = 110, tmpNodes = 11
+Provedena kontrakcija nad 435656 vrhova.
+	Ukupno bridova 1931266 bridova.
+	Trenutni prosjecni stupanj vrhova: 18.00, tmpEdges = 90, tmpNodes = 10
+Provedena kontrakcija nad 435657 vrhova.
+	Ukupno bridova 1931266 bridova.
+	Trenutni prosjecni stupanj vrhova: 16.00, tmpEdges = 72, tmpNodes = 9
+Provedena kontrakcija nad 435658 vrhova.
+	Ukupno bridova 1931266 bridova.
+	Trenutni prosjecni stupanj vrhova: 14.00, tmpEdges = 56, tmpNodes = 8
+Provedena kontrakcija nad 435659 vrhova.
+	Ukupno bridova 1931266 bridova.
+	Trenutni prosjecni stupanj vrhova: 12.00, tmpEdges = 42, tmpNodes = 7
+Provedena kontrakcija nad 435660 vrhova.
+	Ukupno bridova 1931266 bridova.
+	Trenutni prosjecni stupanj vrhova: 10.00, tmpEdges = 30, tmpNodes = 6
+Provedena kontrakcija nad 435661 vrhova.
+	Ukupno bridova 1931266 bridova.
+	Trenutni prosjecni stupanj vrhova: 8.00, tmpEdges = 20, tmpNodes = 5
+Provedena kontrakcija nad 435662 vrhova.
+	Ukupno bridova 1931266 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.00, tmpEdges = 12, tmpNodes = 4
+Provedena kontrakcija nad 435663 vrhova.
+	Ukupno bridova 1931266 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.00, tmpEdges = 6, tmpNodes = 3
+Provedena kontrakcija nad 435664 vrhova.
+	Ukupno bridova 1931266 bridova.
+	Trenutni prosjecni stupanj vrhova: 2.00, tmpEdges = 2, tmpNodes = 2
+Provedena kontrakcija nad 435665 vrhova.
+	Ukupno bridova 1931266 bridova.
+	Trenutni prosjecni stupanj vrhova: 0.00, tmpEdges = 0, tmpNodes = 1
+Edges: 1042400
+Added edges: 888866
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 992.236 sec
+
+------------- Standard Output ---------------
+doTesting3 CH 1000
+Provedena kontrakcija nad 0 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.79, tmpEdges = 1042400, tmpNodes = 435666
+Provedena kontrakcija nad 2000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.79, tmpEdges = 1038400, tmpNodes = 433666
+Provedena kontrakcija nad 4000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.79, tmpEdges = 1034400, tmpNodes = 431666
+Provedena kontrakcija nad 6000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.80, tmpEdges = 1030400, tmpNodes = 429666
+Provedena kontrakcija nad 8000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.80, tmpEdges = 1026400, tmpNodes = 427666
+Provedena kontrakcija nad 10000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.80, tmpEdges = 1022400, tmpNodes = 425666
+Provedena kontrakcija nad 12000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.81, tmpEdges = 1018400, tmpNodes = 423666
+Provedena kontrakcija nad 14000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.81, tmpEdges = 1014400, tmpNodes = 421666
+Provedena kontrakcija nad 16000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.82, tmpEdges = 1010400, tmpNodes = 419666
+Provedena kontrakcija nad 18000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.82, tmpEdges = 1006400, tmpNodes = 417666
+Provedena kontrakcija nad 20000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.82, tmpEdges = 1002400, tmpNodes = 415666
+Provedena kontrakcija nad 22000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.83, tmpEdges = 998400, tmpNodes = 413666
+Provedena kontrakcija nad 24000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.83, tmpEdges = 994400, tmpNodes = 411666
+Provedena kontrakcija nad 26000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.84, tmpEdges = 990400, tmpNodes = 409666
+Provedena kontrakcija nad 28000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.84, tmpEdges = 986400, tmpNodes = 407666
+Provedena kontrakcija nad 30000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.84, tmpEdges = 982400, tmpNodes = 405666
+Provedena kontrakcija nad 32000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.85, tmpEdges = 978400, tmpNodes = 403666
+Provedena kontrakcija nad 34000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.85, tmpEdges = 974400, tmpNodes = 401666
+Provedena kontrakcija nad 36000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.86, tmpEdges = 970400, tmpNodes = 399666
+Provedena kontrakcija nad 38000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.86, tmpEdges = 966400, tmpNodes = 397666
+Provedena kontrakcija nad 40000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.86, tmpEdges = 962400, tmpNodes = 395666
+Provedena kontrakcija nad 42000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.87, tmpEdges = 958400, tmpNodes = 393666
+Provedena kontrakcija nad 44000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.87, tmpEdges = 954400, tmpNodes = 391666
+Provedena kontrakcija nad 46000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.88, tmpEdges = 950400, tmpNodes = 389666
+Provedena kontrakcija nad 48000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.88, tmpEdges = 946400, tmpNodes = 387666
+Provedena kontrakcija nad 50000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.89, tmpEdges = 942400, tmpNodes = 385666
+Provedena kontrakcija nad 52000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.89, tmpEdges = 938400, tmpNodes = 383666
+Provedena kontrakcija nad 54000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.90, tmpEdges = 934400, tmpNodes = 381666
+Provedena kontrakcija nad 56000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.90, tmpEdges = 930400, tmpNodes = 379666
+Provedena kontrakcija nad 58000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.91, tmpEdges = 926400, tmpNodes = 377666
+Provedena kontrakcija nad 60000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.91, tmpEdges = 922400, tmpNodes = 375666
+Provedena kontrakcija nad 62000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.92, tmpEdges = 918400, tmpNodes = 373666
+Provedena kontrakcija nad 64000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.92, tmpEdges = 914400, tmpNodes = 371666
+Provedena kontrakcija nad 66000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.93, tmpEdges = 910400, tmpNodes = 369666
+Provedena kontrakcija nad 68000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.93, tmpEdges = 906400, tmpNodes = 367666
+Provedena kontrakcija nad 70000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.94, tmpEdges = 902400, tmpNodes = 365666
+Provedena kontrakcija nad 72000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.94, tmpEdges = 898400, tmpNodes = 363666
+Provedena kontrakcija nad 74000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.95, tmpEdges = 894400, tmpNodes = 361666
+Provedena kontrakcija nad 76000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.95, tmpEdges = 890400, tmpNodes = 359666
+Provedena kontrakcija nad 78000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.96, tmpEdges = 886400, tmpNodes = 357666
+Provedena kontrakcija nad 80000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.96, tmpEdges = 882400, tmpNodes = 355666
+Provedena kontrakcija nad 82000 vrhova.
+	Ukupno bridova 1042400 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.97, tmpEdges = 878400, tmpNodes = 353666
+Provedena kontrakcija nad 84000 vrhova.
+	Ukupno bridova 1045124 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.97, tmpEdges = 874198, tmpNodes = 351666
+Provedena kontrakcija nad 86000 vrhova.
+	Ukupno bridova 1048860 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.98, tmpEdges = 869934, tmpNodes = 349666
+Provedena kontrakcija nad 88000 vrhova.
+	Ukupno bridova 1052632 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.98, tmpEdges = 865706, tmpNodes = 347666
+Provedena kontrakcija nad 90000 vrhova.
+	Ukupno bridova 1056308 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.98, tmpEdges = 861382, tmpNodes = 345666
+Provedena kontrakcija nad 92000 vrhova.
+	Ukupno bridova 1060194 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.99, tmpEdges = 857268, tmpNodes = 343666
+Provedena kontrakcija nad 94000 vrhova.
+	Ukupno bridova 1064052 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.99, tmpEdges = 853126, tmpNodes = 341666
+Provedena kontrakcija nad 96000 vrhova.
+	Ukupno bridova 1067860 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.00, tmpEdges = 848934, tmpNodes = 339666
+Provedena kontrakcija nad 98000 vrhova.
+	Ukupno bridova 1071722 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.00, tmpEdges = 844796, tmpNodes = 337666
+Provedena kontrakcija nad 100000 vrhova.
+	Ukupno bridova 1075618 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.01, tmpEdges = 840692, tmpNodes = 335666
+Provedena kontrakcija nad 102000 vrhova.
+	Ukupno bridova 1079552 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.01, tmpEdges = 836626, tmpNodes = 333666
+Provedena kontrakcija nad 104000 vrhova.
+	Ukupno bridova 1083330 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.02, tmpEdges = 832404, tmpNodes = 331666
+Provedena kontrakcija nad 106000 vrhova.
+	Ukupno bridova 1087186 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.02, tmpEdges = 828260, tmpNodes = 329666
+Provedena kontrakcija nad 108000 vrhova.
+	Ukupno bridova 1091048 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.03, tmpEdges = 824122, tmpNodes = 327666
+Provedena kontrakcija nad 110000 vrhova.
+	Ukupno bridova 1094928 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.04, tmpEdges = 820002, tmpNodes = 325666
+Provedena kontrakcija nad 112000 vrhova.
+	Ukupno bridova 1098708 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.04, tmpEdges = 815782, tmpNodes = 323666
+Provedena kontrakcija nad 114000 vrhova.
+	Ukupno bridova 1102478 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.05, tmpEdges = 811552, tmpNodes = 321666
+Provedena kontrakcija nad 116000 vrhova.
+	Ukupno bridova 1106400 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.05, tmpEdges = 807474, tmpNodes = 319666
+Provedena kontrakcija nad 118000 vrhova.
+	Ukupno bridova 1110258 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.06, tmpEdges = 803332, tmpNodes = 317666
+Provedena kontrakcija nad 120000 vrhova.
+	Ukupno bridova 1114112 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.06, tmpEdges = 799186, tmpNodes = 315666
+Provedena kontrakcija nad 122000 vrhova.
+	Ukupno bridova 1118004 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.07, tmpEdges = 795078, tmpNodes = 313666
+Provedena kontrakcija nad 124000 vrhova.
+	Ukupno bridova 1121782 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.08, tmpEdges = 790856, tmpNodes = 311666
+Provedena kontrakcija nad 126000 vrhova.
+	Ukupno bridova 1125446 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.08, tmpEdges = 786520, tmpNodes = 309666
+Provedena kontrakcija nad 128000 vrhova.
+	Ukupno bridova 1129322 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.09, tmpEdges = 782396, tmpNodes = 307666
+Provedena kontrakcija nad 130000 vrhova.
+	Ukupno bridova 1133204 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.09, tmpEdges = 778278, tmpNodes = 305666
+Provedena kontrakcija nad 132000 vrhova.
+	Ukupno bridova 1137096 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.10, tmpEdges = 774170, tmpNodes = 303666
+Provedena kontrakcija nad 134000 vrhova.
+	Ukupno bridova 1140922 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.10, tmpEdges = 769996, tmpNodes = 301666
+Provedena kontrakcija nad 136000 vrhova.
+	Ukupno bridova 1144750 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.11, tmpEdges = 765824, tmpNodes = 299666
+Provedena kontrakcija nad 138000 vrhova.
+	Ukupno bridova 1148648 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.12, tmpEdges = 761722, tmpNodes = 297666
+Provedena kontrakcija nad 140000 vrhova.
+	Ukupno bridova 1152570 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.12, tmpEdges = 757644, tmpNodes = 295666
+Provedena kontrakcija nad 142000 vrhova.
+	Ukupno bridova 1156466 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.13, tmpEdges = 753540, tmpNodes = 293666
+Provedena kontrakcija nad 144000 vrhova.
+	Ukupno bridova 1160236 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.14, tmpEdges = 749310, tmpNodes = 291666
+Provedena kontrakcija nad 146000 vrhova.
+	Ukupno bridova 1164134 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.15, tmpEdges = 745208, tmpNodes = 289666
+Provedena kontrakcija nad 148000 vrhova.
+	Ukupno bridova 1168002 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.15, tmpEdges = 741076, tmpNodes = 287666
+Provedena kontrakcija nad 150000 vrhova.
+	Ukupno bridova 1171884 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.16, tmpEdges = 736958, tmpNodes = 285666
+Provedena kontrakcija nad 152000 vrhova.
+	Ukupno bridova 1175748 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.17, tmpEdges = 732822, tmpNodes = 283666
+Provedena kontrakcija nad 154000 vrhova.
+	Ukupno bridova 1179624 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.17, tmpEdges = 728698, tmpNodes = 281666
+Provedena kontrakcija nad 156000 vrhova.
+	Ukupno bridova 1183510 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.18, tmpEdges = 724584, tmpNodes = 279666
+Provedena kontrakcija nad 158000 vrhova.
+	Ukupno bridova 1187318 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.19, tmpEdges = 720392, tmpNodes = 277666
+Provedena kontrakcija nad 160000 vrhova.
+	Ukupno bridova 1191230 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.20, tmpEdges = 716304, tmpNodes = 275666
+Provedena kontrakcija nad 162000 vrhova.
+	Ukupno bridova 1195150 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.21, tmpEdges = 712224, tmpNodes = 273666
+Provedena kontrakcija nad 164000 vrhova.
+	Ukupno bridova 1199044 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.21, tmpEdges = 708118, tmpNodes = 271666
+Provedena kontrakcija nad 166000 vrhova.
+	Ukupno bridova 1202908 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.22, tmpEdges = 703982, tmpNodes = 269666
+Provedena kontrakcija nad 168000 vrhova.
+	Ukupno bridova 1206838 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.23, tmpEdges = 699912, tmpNodes = 267666
+Provedena kontrakcija nad 170000 vrhova.
+	Ukupno bridova 1210734 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.24, tmpEdges = 695808, tmpNodes = 265666
+Provedena kontrakcija nad 172000 vrhova.
+	Ukupno bridova 1214612 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.25, tmpEdges = 691686, tmpNodes = 263666
+Provedena kontrakcija nad 174000 vrhova.
+	Ukupno bridova 1218384 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.26, tmpEdges = 687572, tmpNodes = 261666
+Provedena kontrakcija nad 176000 vrhova.
+	Ukupno bridova 1218384 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.27, tmpEdges = 683572, tmpNodes = 259666
+Provedena kontrakcija nad 178000 vrhova.
+	Ukupno bridova 1218384 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.27, tmpEdges = 679572, tmpNodes = 257666
+Provedena kontrakcija nad 180000 vrhova.
+	Ukupno bridova 1218384 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.28, tmpEdges = 675572, tmpNodes = 255666
+Provedena kontrakcija nad 182000 vrhova.
+	Ukupno bridova 1218384 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.29, tmpEdges = 671572, tmpNodes = 253666
+Provedena kontrakcija nad 184000 vrhova.
+	Ukupno bridova 1218384 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.31, tmpEdges = 667572, tmpNodes = 251666
+Provedena kontrakcija nad 186000 vrhova.
+	Ukupno bridova 1218384 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.32, tmpEdges = 663572, tmpNodes = 249666
+Provedena kontrakcija nad 188000 vrhova.
+	Ukupno bridova 1221630 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.32, tmpEdges = 659162, tmpNodes = 247666
+Provedena kontrakcija nad 190000 vrhova.
+	Ukupno bridova 1225154 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.33, tmpEdges = 654686, tmpNodes = 245666
+Provedena kontrakcija nad 192000 vrhova.
+	Ukupno bridova 1228752 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.34, tmpEdges = 650284, tmpNodes = 243666
+Provedena kontrakcija nad 194000 vrhova.
+	Ukupno bridova 1232300 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.34, tmpEdges = 645832, tmpNodes = 241666
+Provedena kontrakcija nad 196000 vrhova.
+	Ukupno bridova 1235856 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.35, tmpEdges = 641388, tmpNodes = 239666
+Provedena kontrakcija nad 198000 vrhova.
+	Ukupno bridova 1239516 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.36, tmpEdges = 637048, tmpNodes = 237666
+Provedena kontrakcija nad 200000 vrhova.
+	Ukupno bridova 1243078 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.37, tmpEdges = 632610, tmpNodes = 235666
+Provedena kontrakcija nad 202000 vrhova.
+	Ukupno bridova 1246702 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.38, tmpEdges = 628234, tmpNodes = 233666
+Provedena kontrakcija nad 204000 vrhova.
+	Ukupno bridova 1250146 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.38, tmpEdges = 623678, tmpNodes = 231666
+Provedena kontrakcija nad 206000 vrhova.
+	Ukupno bridova 1253716 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.39, tmpEdges = 619248, tmpNodes = 229666
+Provedena kontrakcija nad 208000 vrhova.
+	Ukupno bridova 1257252 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.40, tmpEdges = 614784, tmpNodes = 227666
+Provedena kontrakcija nad 210000 vrhova.
+	Ukupno bridova 1260780 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.41, tmpEdges = 610312, tmpNodes = 225666
+Provedena kontrakcija nad 212000 vrhova.
+	Ukupno bridova 1264334 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.42, tmpEdges = 605866, tmpNodes = 223666
+Provedena kontrakcija nad 214000 vrhova.
+	Ukupno bridova 1267986 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.43, tmpEdges = 601518, tmpNodes = 221666
+Provedena kontrakcija nad 216000 vrhova.
+	Ukupno bridova 1271608 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.44, tmpEdges = 597140, tmpNodes = 219666
+Provedena kontrakcija nad 218000 vrhova.
+	Ukupno bridova 1275270 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.45, tmpEdges = 592802, tmpNodes = 217666
+Provedena kontrakcija nad 220000 vrhova.
+	Ukupno bridova 1278896 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.46, tmpEdges = 588428, tmpNodes = 215666
+Provedena kontrakcija nad 222000 vrhova.
+	Ukupno bridova 1282510 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.47, tmpEdges = 584042, tmpNodes = 213666
+Provedena kontrakcija nad 224000 vrhova.
+	Ukupno bridova 1286140 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.48, tmpEdges = 579672, tmpNodes = 211666
+Provedena kontrakcija nad 226000 vrhova.
+	Ukupno bridova 1289776 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.49, tmpEdges = 575308, tmpNodes = 209666
+Provedena kontrakcija nad 228000 vrhova.
+	Ukupno bridova 1293364 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.50, tmpEdges = 570896, tmpNodes = 207666
+Provedena kontrakcija nad 230000 vrhova.
+	Ukupno bridova 1296948 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.51, tmpEdges = 566480, tmpNodes = 205666
+Provedena kontrakcija nad 232000 vrhova.
+	Ukupno bridova 1300664 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.52, tmpEdges = 562196, tmpNodes = 203666
+Provedena kontrakcija nad 234000 vrhova.
+	Ukupno bridova 1303628 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.53, tmpEdges = 557896, tmpNodes = 201666
+Provedena kontrakcija nad 236000 vrhova.
+	Ukupno bridova 1303996 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.55, tmpEdges = 553834, tmpNodes = 199666
+Provedena kontrakcija nad 238000 vrhova.
+	Ukupno bridova 1304412 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.56, tmpEdges = 549766, tmpNodes = 197666
+Provedena kontrakcija nad 240000 vrhova.
+	Ukupno bridova 1304798 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.58, tmpEdges = 545674, tmpNodes = 195666
+Provedena kontrakcija nad 242000 vrhova.
+	Ukupno bridova 1305090 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.59, tmpEdges = 541606, tmpNodes = 193666
+Provedena kontrakcija nad 244000 vrhova.
+	Ukupno bridova 1305394 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.61, tmpEdges = 537518, tmpNodes = 191666
+Provedena kontrakcija nad 246000 vrhova.
+	Ukupno bridova 1306638 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.62, tmpEdges = 533220, tmpNodes = 189666
+Provedena kontrakcija nad 248000 vrhova.
+	Ukupno bridova 1310028 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.63, tmpEdges = 528610, tmpNodes = 187666
+Provedena kontrakcija nad 250000 vrhova.
+	Ukupno bridova 1313544 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.65, tmpEdges = 524128, tmpNodes = 185666
+Provedena kontrakcija nad 252000 vrhova.
+	Ukupno bridova 1317092 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.66, tmpEdges = 519676, tmpNodes = 183666
+Provedena kontrakcija nad 254000 vrhova.
+	Ukupno bridova 1320636 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.67, tmpEdges = 515220, tmpNodes = 181666
+Provedena kontrakcija nad 256000 vrhova.
+	Ukupno bridova 1324006 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.68, tmpEdges = 510594, tmpNodes = 179666
+Provedena kontrakcija nad 258000 vrhova.
+	Ukupno bridova 1327550 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.70, tmpEdges = 506140, tmpNodes = 177666
+Provedena kontrakcija nad 260000 vrhova.
+	Ukupno bridova 1331002 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.71, tmpEdges = 501594, tmpNodes = 175666
+Provedena kontrakcija nad 262000 vrhova.
+	Ukupno bridova 1334636 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.73, tmpEdges = 497228, tmpNodes = 173666
+Provedena kontrakcija nad 264000 vrhova.
+	Ukupno bridova 1338226 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.74, tmpEdges = 492818, tmpNodes = 171666
+Provedena kontrakcija nad 266000 vrhova.
+	Ukupno bridova 1341802 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.76, tmpEdges = 488396, tmpNodes = 169666
+Provedena kontrakcija nad 268000 vrhova.
+	Ukupno bridova 1345340 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.77, tmpEdges = 483938, tmpNodes = 167666
+Provedena kontrakcija nad 270000 vrhova.
+	Ukupno bridova 1348880 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.79, tmpEdges = 479478, tmpNodes = 165666
+Provedena kontrakcija nad 272000 vrhova.
+	Ukupno bridova 1352436 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.80, tmpEdges = 475036, tmpNodes = 163666
+Provedena kontrakcija nad 274000 vrhova.
+	Ukupno bridova 1356550 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.82, tmpEdges = 470798, tmpNodes = 161666
+Provedena kontrakcija nad 276000 vrhova.
+	Ukupno bridova 1364640 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.86, tmpEdges = 467723, tmpNodes = 159666
+Provedena kontrakcija nad 278000 vrhova.
+	Ukupno bridova 1371645 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.89, tmpEdges = 464459, tmpNodes = 157666
+Provedena kontrakcija nad 280000 vrhova.
+	Ukupno bridova 1378006 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.92, tmpEdges = 461123, tmpNodes = 155666
+Provedena kontrakcija nad 282000 vrhova.
+	Ukupno bridova 1386619 bridova.
+	Trenutni prosjecni stupanj vrhova: 5.96, tmpEdges = 458096, tmpNodes = 153666
+Provedena kontrakcija nad 284000 vrhova.
+	Ukupno bridova 1392763 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.00, tmpEdges = 454685, tmpNodes = 151666
+Provedena kontrakcija nad 286000 vrhova.
+	Ukupno bridova 1398275 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.03, tmpEdges = 451083, tmpNodes = 149666
+Provedena kontrakcija nad 288000 vrhova.
+	Ukupno bridova 1405259 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.07, tmpEdges = 447821, tmpNodes = 147666
+Provedena kontrakcija nad 290000 vrhova.
+	Ukupno bridova 1411163 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.10, tmpEdges = 444349, tmpNodes = 145666
+Provedena kontrakcija nad 292000 vrhova.
+	Ukupno bridova 1416560 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.14, tmpEdges = 440724, tmpNodes = 143666
+Provedena kontrakcija nad 294000 vrhova.
+	Ukupno bridova 1421814 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.17, tmpEdges = 436983, tmpNodes = 141666
+Provedena kontrakcija nad 296000 vrhova.
+	Ukupno bridova 1428416 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.21, tmpEdges = 433540, tmpNodes = 139666
+Provedena kontrakcija nad 298000 vrhova.
+	Ukupno bridova 1434351 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.25, tmpEdges = 429997, tmpNodes = 137666
+Provedena kontrakcija nad 300000 vrhova.
+	Ukupno bridova 1437582 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.27, tmpEdges = 425236, tmpNodes = 135666
+Provedena kontrakcija nad 302000 vrhova.
+	Ukupno bridova 1441018 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.29, tmpEdges = 420674, tmpNodes = 133666
+Provedena kontrakcija nad 304000 vrhova.
+	Ukupno bridova 1444298 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.32, tmpEdges = 415962, tmpNodes = 131666
+Provedena kontrakcija nad 306000 vrhova.
+	Ukupno bridova 1447652 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.34, tmpEdges = 411324, tmpNodes = 129666
+Provedena kontrakcija nad 308000 vrhova.
+	Ukupno bridova 1451050 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.37, tmpEdges = 406726, tmpNodes = 127666
+Provedena kontrakcija nad 310000 vrhova.
+	Ukupno bridova 1454474 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.40, tmpEdges = 402152, tmpNodes = 125666
+Provedena kontrakcija nad 312000 vrhova.
+	Ukupno bridova 1457916 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.43, tmpEdges = 397594, tmpNodes = 123666
+Provedena kontrakcija nad 314000 vrhova.
+	Ukupno bridova 1461370 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.46, tmpEdges = 393054, tmpNodes = 121666
+Provedena kontrakcija nad 316000 vrhova.
+	Ukupno bridova 1467945 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.50, tmpEdges = 389195, tmpNodes = 119666
+Provedena kontrakcija nad 318000 vrhova.
+	Ukupno bridova 1474439 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.55, tmpEdges = 385401, tmpNodes = 117666
+Provedena kontrakcija nad 320000 vrhova.
+	Ukupno bridova 1481134 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.60, tmpEdges = 381629, tmpNodes = 115666
+Provedena kontrakcija nad 322000 vrhova.
+	Ukupno bridova 1486791 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.65, tmpEdges = 377845, tmpNodes = 113666
+Provedena kontrakcija nad 324000 vrhova.
+	Ukupno bridova 1492774 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.70, tmpEdges = 374045, tmpNodes = 111666
+Provedena kontrakcija nad 326000 vrhova.
+	Ukupno bridova 1498732 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.75, tmpEdges = 370310, tmpNodes = 109666
+Provedena kontrakcija nad 328000 vrhova.
+	Ukupno bridova 1504903 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.81, tmpEdges = 366461, tmpNodes = 107666
+Provedena kontrakcija nad 330000 vrhova.
+	Ukupno bridova 1508758 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.85, tmpEdges = 361792, tmpNodes = 105666
+Provedena kontrakcija nad 332000 vrhova.
+	Ukupno bridova 1512044 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.89, tmpEdges = 357076, tmpNodes = 103666
+Provedena kontrakcija nad 334000 vrhova.
+	Ukupno bridova 1515290 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.93, tmpEdges = 352322, tmpNodes = 101666
+Provedena kontrakcija nad 336000 vrhova.
+	Ukupno bridova 1518642 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.98, tmpEdges = 347670, tmpNodes = 99666
+Provedena kontrakcija nad 338000 vrhova.
+	Ukupno bridova 1522553 bridova.
+	Trenutni prosjecni stupanj vrhova: 7.02, tmpEdges = 343000, tmpNodes = 97666
+Provedena kontrakcija nad 340000 vrhova.
+	Ukupno bridova 1528943 bridova.
+	Trenutni prosjecni stupanj vrhova: 7.08, tmpEdges = 338737, tmpNodes = 95666
+Provedena kontrakcija nad 342000 vrhova.
+	Ukupno bridova 1534896 bridova.
+	Trenutni prosjecni stupanj vrhova: 7.14, tmpEdges = 334258, tmpNodes = 93666
+Provedena kontrakcija nad 344000 vrhova.
+	Ukupno bridova 1540971 bridova.
+	Trenutni prosjecni stupanj vrhova: 7.20, tmpEdges = 330061, tmpNodes = 91666
+Provedena kontrakcija nad 346000 vrhova.
+	Ukupno bridova 1547036 bridova.
+	Trenutni prosjecni stupanj vrhova: 7.27, tmpEdges = 325962, tmpNodes = 89666
+Provedena kontrakcija nad 348000 vrhova.
+	Ukupno bridova 1552911 bridova.
+	Trenutni prosjecni stupanj vrhova: 7.33, tmpEdges = 321495, tmpNodes = 87666
+Provedena kontrakcija nad 350000 vrhova.
+	Ukupno bridova 1555972 bridova.
+	Trenutni prosjecni stupanj vrhova: 7.39, tmpEdges = 316544, tmpNodes = 85666
+Provedena kontrakcija nad 352000 vrhova.
+	Ukupno bridova 1559038 bridova.
+	Trenutni prosjecni stupanj vrhova: 7.45, tmpEdges = 311604, tmpNodes = 83666
+Provedena kontrakcija nad 354000 vrhova.
+	Ukupno bridova 1563702 bridova.
+	Trenutni prosjecni stupanj vrhova: 7.51, tmpEdges = 306722, tmpNodes = 81666
+Provedena kontrakcija nad 356000 vrhova.
+	Ukupno bridova 1569625 bridova.
+	Trenutni prosjecni stupanj vrhova: 7.58, tmpEdges = 301899, tmpNodes = 79666
+Provedena kontrakcija nad 358000 vrhova.
+	Ukupno bridova 1575556 bridova.
+	Trenutni prosjecni stupanj vrhova: 7.66, tmpEdges = 297324, tmpNodes = 77666
+Provedena kontrakcija nad 360000 vrhova.
+	Ukupno bridova 1581493 bridova.
+	Trenutni prosjecni stupanj vrhova: 7.74, tmpEdges = 292682, tmpNodes = 75666
+Provedena kontrakcija nad 362000 vrhova.
+	Ukupno bridova 1591529 bridova.
+	Trenutni prosjecni stupanj vrhova: 7.87, tmpEdges = 289922, tmpNodes = 73666
+Provedena kontrakcija nad 364000 vrhova.
+	Ukupno bridova 1600699 bridova.
+	Trenutni prosjecni stupanj vrhova: 8.01, tmpEdges = 286998, tmpNodes = 71666
+Provedena kontrakcija nad 366000 vrhova.
+	Ukupno bridova 1608069 bridova.
+	Trenutni prosjecni stupanj vrhova: 8.14, tmpEdges = 283472, tmpNodes = 69666
+Provedena kontrakcija nad 368000 vrhova.
+	Ukupno bridova 1614523 bridova.
+	Trenutni prosjecni stupanj vrhova: 8.24, tmpEdges = 278644, tmpNodes = 67666
+Provedena kontrakcija nad 370000 vrhova.
+	Ukupno bridova 1619987 bridova.
+	Trenutni prosjecni stupanj vrhova: 8.33, tmpEdges = 273360, tmpNodes = 65666
+Provedena kontrakcija nad 372000 vrhova.
+	Ukupno bridova 1625824 bridova.
+	Trenutni prosjecni stupanj vrhova: 8.43, tmpEdges = 268319, tmpNodes = 63666
+Provedena kontrakcija nad 374000 vrhova.
+	Ukupno bridova 1635312 bridova.
+	Trenutni prosjecni stupanj vrhova: 8.59, tmpEdges = 264839, tmpNodes = 61666
+Provedena kontrakcija nad 376000 vrhova.
+	Ukupno bridova 1642780 bridova.
+	Trenutni prosjecni stupanj vrhova: 8.74, tmpEdges = 260743, tmpNodes = 59666
+Provedena kontrakcija nad 378000 vrhova.
+	Ukupno bridova 1648042 bridova.
+	Trenutni prosjecni stupanj vrhova: 8.84, tmpEdges = 254937, tmpNodes = 57666
+Provedena kontrakcija nad 380000 vrhova.
+	Ukupno bridova 1653611 bridova.
+	Trenutni prosjecni stupanj vrhova: 8.96, tmpEdges = 249449, tmpNodes = 55666
+Provedena kontrakcija nad 382000 vrhova.
+	Ukupno bridova 1662627 bridova.
+	Trenutni prosjecni stupanj vrhova: 9.13, tmpEdges = 244939, tmpNodes = 53666
+Provedena kontrakcija nad 384000 vrhova.
+	Ukupno bridova 1670511 bridova.
+	Trenutni prosjecni stupanj vrhova: 9.29, tmpEdges = 240093, tmpNodes = 51666
+Provedena kontrakcija nad 386000 vrhova.
+	Ukupno bridova 1675636 bridova.
+	Trenutni prosjecni stupanj vrhova: 9.42, tmpEdges = 233974, tmpNodes = 49666
+Provedena kontrakcija nad 388000 vrhova.
+	Ukupno bridova 1683146 bridova.
+	Trenutni prosjecni stupanj vrhova: 9.58, tmpEdges = 228300, tmpNodes = 47666
+Provedena kontrakcija nad 390000 vrhova.
+	Ukupno bridova 1691609 bridova.
+	Trenutni prosjecni stupanj vrhova: 9.77, tmpEdges = 222978, tmpNodes = 45666
+Provedena kontrakcija nad 392000 vrhova.
+	Ukupno bridova 1696797 bridova.
+	Trenutni prosjecni stupanj vrhova: 9.93, tmpEdges = 216772, tmpNodes = 43666
+Provedena kontrakcija nad 394000 vrhova.
+	Ukupno bridova 1705066 bridova.
+	Trenutni prosjecni stupanj vrhova: 10.11, tmpEdges = 210671, tmpNodes = 41666
+Provedena kontrakcija nad 396000 vrhova.
+	Ukupno bridova 1711858 bridova.
+	Trenutni prosjecni stupanj vrhova: 10.32, tmpEdges = 204630, tmpNodes = 39666
+Provedena kontrakcija nad 398000 vrhova.
+	Ukupno bridova 1719545 bridova.
+	Trenutni prosjecni stupanj vrhova: 10.52, tmpEdges = 198086, tmpNodes = 37666
+Provedena kontrakcija nad 400000 vrhova.
+	Ukupno bridova 1725983 bridova.
+	Trenutni prosjecni stupanj vrhova: 10.73, tmpEdges = 191355, tmpNodes = 35666
+Provedena kontrakcija nad 402000 vrhova.
+	Ukupno bridova 1734018 bridova.
+	Trenutni prosjecni stupanj vrhova: 10.97, tmpEdges = 184646, tmpNodes = 33666
+Provedena kontrakcija nad 404000 vrhova.
+	Ukupno bridova 1741961 bridova.
+	Trenutni prosjecni stupanj vrhova: 11.25, tmpEdges = 178068, tmpNodes = 31666
+Provedena kontrakcija nad 406000 vrhova.
+	Ukupno bridova 1751832 bridova.
+	Trenutni prosjecni stupanj vrhova: 11.61, tmpEdges = 172177, tmpNodes = 29666
+Provedena kontrakcija nad 408000 vrhova.
+	Ukupno bridova 1761853 bridova.
+	Trenutni prosjecni stupanj vrhova: 11.99, tmpEdges = 165826, tmpNodes = 27666
+Provedena kontrakcija nad 410000 vrhova.
+	Ukupno bridova 1771589 bridova.
+	Trenutni prosjecni stupanj vrhova: 12.37, tmpEdges = 158753, tmpNodes = 25666
+Provedena kontrakcija nad 412000 vrhova.
+	Ukupno bridova 1780557 bridova.
+	Trenutni prosjecni stupanj vrhova: 12.76, tmpEdges = 150931, tmpNodes = 23666
+Provedena kontrakcija nad 414000 vrhova.
+	Ukupno bridova 1789647 bridova.
+	Trenutni prosjecni stupanj vrhova: 13.15, tmpEdges = 142478, tmpNodes = 21666
+Provedena kontrakcija nad 416000 vrhova.
+	Ukupno bridova 1799102 bridova.
+	Trenutni prosjecni stupanj vrhova: 13.63, tmpEdges = 134010, tmpNodes = 19666
+Provedena kontrakcija nad 418000 vrhova.
+	Ukupno bridova 1810565 bridova.
+	Trenutni prosjecni stupanj vrhova: 14.24, tmpEdges = 125820, tmpNodes = 17666
+Provedena kontrakcija nad 420000 vrhova.
+	Ukupno bridova 1821321 bridova.
+	Trenutni prosjecni stupanj vrhova: 14.85, tmpEdges = 116286, tmpNodes = 15666
+Provedena kontrakcija nad 422000 vrhova.
+	Ukupno bridova 1832499 bridova.
+	Trenutni prosjecni stupanj vrhova: 15.56, tmpEdges = 106336, tmpNodes = 13666
+Provedena kontrakcija nad 424000 vrhova.
+	Ukupno bridova 1843616 bridova.
+	Trenutni prosjecni stupanj vrhova: 16.39, tmpEdges = 95599, tmpNodes = 11666
+Provedena kontrakcija nad 426000 vrhova.
+	Ukupno bridova 1857154 bridova.
+	Trenutni prosjecni stupanj vrhova: 17.56, tmpEdges = 84882, tmpNodes = 9666
+Provedena kontrakcija nad 428000 vrhova.
+	Ukupno bridova 1870251 bridova.
+	Trenutni prosjecni stupanj vrhova: 18.90, tmpEdges = 72461, tmpNodes = 7666
+Provedena kontrakcija nad 430000 vrhova.
+	Ukupno bridova 1885174 bridova.
+	Trenutni prosjecni stupanj vrhova: 20.95, tmpEdges = 59346, tmpNodes = 5666
+Provedena kontrakcija nad 432000 vrhova.
+	Ukupno bridova 1900282 bridova.
+	Trenutni prosjecni stupanj vrhova: 23.71, tmpEdges = 43464, tmpNodes = 3666
+Provedena kontrakcija nad 434000 vrhova.
+	Ukupno bridova 1916694 bridova.
+	Trenutni prosjecni stupanj vrhova: 28.86, tmpEdges = 24038, tmpNodes = 1666
+Provedena kontrakcija nad 435617 vrhova.
+	Ukupno bridova 1931102 bridova.
+	Trenutni prosjecni stupanj vrhova: 41.39, tmpEdges = 1014, tmpNodes = 49
+Provedena kontrakcija nad 435618 vrhova.
+	Ukupno bridova 1931114 bridova.
+	Trenutni prosjecni stupanj vrhova: 41.58, tmpEdges = 998, tmpNodes = 48
+Provedena kontrakcija nad 435619 vrhova.
+	Ukupno bridova 1931122 bridova.
+	Trenutni prosjecni stupanj vrhova: 41.45, tmpEdges = 974, tmpNodes = 47
+Provedena kontrakcija nad 435620 vrhova.
+	Ukupno bridova 1931122 bridova.
+	Trenutni prosjecni stupanj vrhova: 40.96, tmpEdges = 942, tmpNodes = 46
+Provedena kontrakcija nad 435621 vrhova.
+	Ukupno bridova 1931122 bridova.
+	Trenutni prosjecni stupanj vrhova: 40.53, tmpEdges = 912, tmpNodes = 45
+Provedena kontrakcija nad 435622 vrhova.
+	Ukupno bridova 1931152 bridova.
+	Trenutni prosjecni stupanj vrhova: 41.45, tmpEdges = 912, tmpNodes = 44
+Provedena kontrakcija nad 435623 vrhova.
+	Ukupno bridova 1931156 bridova.
+	Trenutni prosjecni stupanj vrhova: 41.02, tmpEdges = 882, tmpNodes = 43
+Provedena kontrakcija nad 435624 vrhova.
+	Ukupno bridova 1931156 bridova.
+	Trenutni prosjecni stupanj vrhova: 40.38, tmpEdges = 848, tmpNodes = 42
+Provedena kontrakcija nad 435625 vrhova.
+	Ukupno bridova 1931156 bridova.
+	Trenutni prosjecni stupanj vrhova: 39.80, tmpEdges = 816, tmpNodes = 41
+Provedena kontrakcija nad 435626 vrhova.
+	Ukupno bridova 1931156 bridova.
+	Trenutni prosjecni stupanj vrhova: 39.40, tmpEdges = 788, tmpNodes = 40
+Provedena kontrakcija nad 435627 vrhova.
+	Ukupno bridova 1931160 bridova.
+	Trenutni prosjecni stupanj vrhova: 39.18, tmpEdges = 764, tmpNodes = 39
+Provedena kontrakcija nad 435628 vrhova.
+	Ukupno bridova 1931160 bridova.
+	Trenutni prosjecni stupanj vrhova: 38.74, tmpEdges = 736, tmpNodes = 38
+Provedena kontrakcija nad 435629 vrhova.
+	Ukupno bridova 1931162 bridova.
+	Trenutni prosjecni stupanj vrhova: 38.38, tmpEdges = 710, tmpNodes = 37
+Provedena kontrakcija nad 435630 vrhova.
+	Ukupno bridova 1931166 bridova.
+	Trenutni prosjecni stupanj vrhova: 38.22, tmpEdges = 688, tmpNodes = 36
+Provedena kontrakcija nad 435631 vrhova.
+	Ukupno bridova 1931166 bridova.
+	Trenutni prosjecni stupanj vrhova: 37.94, tmpEdges = 664, tmpNodes = 35
+Provedena kontrakcija nad 435632 vrhova.
+	Ukupno bridova 1931166 bridova.
+	Trenutni prosjecni stupanj vrhova: 37.53, tmpEdges = 638, tmpNodes = 34
+Provedena kontrakcija nad 435633 vrhova.
+	Ukupno bridova 1931168 bridova.
+	Trenutni prosjecni stupanj vrhova: 37.09, tmpEdges = 612, tmpNodes = 33
+Provedena kontrakcija nad 435634 vrhova.
+	Ukupno bridova 1931168 bridova.
+	Trenutni prosjecni stupanj vrhova: 36.63, tmpEdges = 586, tmpNodes = 32
+Provedena kontrakcija nad 435635 vrhova.
+	Ukupno bridova 1931182 bridova.
+	Trenutni prosjecni stupanj vrhova: 37.03, tmpEdges = 574, tmpNodes = 31
+Provedena kontrakcija nad 435636 vrhova.
+	Ukupno bridova 1931182 bridova.
+	Trenutni prosjecni stupanj vrhova: 36.67, tmpEdges = 550, tmpNodes = 30
+Provedena kontrakcija nad 435637 vrhova.
+	Ukupno bridova 1931192 bridova.
+	Trenutni prosjecni stupanj vrhova: 36.69, tmpEdges = 532, tmpNodes = 29
+Provedena kontrakcija nad 435638 vrhova.
+	Ukupno bridova 1931204 bridova.
+	Trenutni prosjecni stupanj vrhova: 36.57, tmpEdges = 512, tmpNodes = 28
+Provedena kontrakcija nad 435639 vrhova.
+	Ukupno bridova 1931216 bridova.
+	Trenutni prosjecni stupanj vrhova: 36.74, tmpEdges = 496, tmpNodes = 27
+Provedena kontrakcija nad 435640 vrhova.
+	Ukupno bridova 1931216 bridova.
+	Trenutni prosjecni stupanj vrhova: 35.85, tmpEdges = 466, tmpNodes = 26
+Provedena kontrakcija nad 435641 vrhova.
+	Ukupno bridova 1931240 bridova.
+	Trenutni prosjecni stupanj vrhova: 36.80, tmpEdges = 460, tmpNodes = 25
+Provedena kontrakcija nad 435642 vrhova.
+	Ukupno bridova 1931240 bridova.
+	Trenutni prosjecni stupanj vrhova: 36.33, tmpEdges = 436, tmpNodes = 24
+Provedena kontrakcija nad 435643 vrhova.
+	Ukupno bridova 1931240 bridova.
+	Trenutni prosjecni stupanj vrhova: 35.13, tmpEdges = 404, tmpNodes = 23
+Provedena kontrakcija nad 435644 vrhova.
+	Ukupno bridova 1931246 bridova.
+	Trenutni prosjecni stupanj vrhova: 34.36, tmpEdges = 378, tmpNodes = 22
+Provedena kontrakcija nad 435645 vrhova.
+	Ukupno bridova 1931246 bridova.
+	Trenutni prosjecni stupanj vrhova: 33.14, tmpEdges = 348, tmpNodes = 21
+Provedena kontrakcija nad 435646 vrhova.
+	Ukupno bridova 1931246 bridova.
+	Trenutni prosjecni stupanj vrhova: 32.20, tmpEdges = 322, tmpNodes = 20
+Provedena kontrakcija nad 435647 vrhova.
+	Ukupno bridova 1931256 bridova.
+	Trenutni prosjecni stupanj vrhova: 32.00, tmpEdges = 304, tmpNodes = 19
+Provedena kontrakcija nad 435648 vrhova.
+	Ukupno bridova 1931258 bridova.
+	Trenutni prosjecni stupanj vrhova: 30.67, tmpEdges = 276, tmpNodes = 18
+Provedena kontrakcija nad 435649 vrhova.
+	Ukupno bridova 1931260 bridova.
+	Trenutni prosjecni stupanj vrhova: 29.65, tmpEdges = 252, tmpNodes = 17
+Provedena kontrakcija nad 435650 vrhova.
+	Ukupno bridova 1931266 bridova.
+	Trenutni prosjecni stupanj vrhova: 28.75, tmpEdges = 230, tmpNodes = 16
+Provedena kontrakcija nad 435651 vrhova.
+	Ukupno bridova 1931266 bridova.
+	Trenutni prosjecni stupanj vrhova: 27.20, tmpEdges = 204, tmpNodes = 15
+Provedena kontrakcija nad 435652 vrhova.
+	Ukupno bridova 1931266 bridova.
+	Trenutni prosjecni stupanj vrhova: 25.43, tmpEdges = 178, tmpNodes = 14
+Provedena kontrakcija nad 435653 vrhova.
+	Ukupno bridova 1931266 bridova.
+	Trenutni prosjecni stupanj vrhova: 23.69, tmpEdges = 154, tmpNodes = 13
+Provedena kontrakcija nad 435654 vrhova.
+	Ukupno bridova 1931266 bridova.
+	Trenutni prosjecni stupanj vrhova: 22.00, tmpEdges = 132, tmpNodes = 12
+Provedena kontrakcija nad 435655 vrhova.
+	Ukupno bridova 1931266 bridova.
+	Trenutni prosjecni stupanj vrhova: 20.00, tmpEdges = 110, tmpNodes = 11
+Provedena kontrakcija nad 435656 vrhova.
+	Ukupno bridova 1931266 bridova.
+	Trenutni prosjecni stupanj vrhova: 18.00, tmpEdges = 90, tmpNodes = 10
+Provedena kontrakcija nad 435657 vrhova.
+	Ukupno bridova 1931266 bridova.
+	Trenutni prosjecni stupanj vrhova: 16.00, tmpEdges = 72, tmpNodes = 9
+Provedena kontrakcija nad 435658 vrhova.
+	Ukupno bridova 1931266 bridova.
+	Trenutni prosjecni stupanj vrhova: 14.00, tmpEdges = 56, tmpNodes = 8
+Provedena kontrakcija nad 435659 vrhova.
+	Ukupno bridova 1931266 bridova.
+	Trenutni prosjecni stupanj vrhova: 12.00, tmpEdges = 42, tmpNodes = 7
+Provedena kontrakcija nad 435660 vrhova.
+	Ukupno bridova 1931266 bridova.
+	Trenutni prosjecni stupanj vrhova: 10.00, tmpEdges = 30, tmpNodes = 6
+Provedena kontrakcija nad 435661 vrhova.
+	Ukupno bridova 1931266 bridova.
+	Trenutni prosjecni stupanj vrhova: 8.00, tmpEdges = 20, tmpNodes = 5
+Provedena kontrakcija nad 435662 vrhova.
+	Ukupno bridova 1931266 bridova.
+	Trenutni prosjecni stupanj vrhova: 6.00, tmpEdges = 12, tmpNodes = 4
+Provedena kontrakcija nad 435663 vrhova.
+	Ukupno bridova 1931266 bridova.
+	Trenutni prosjecni stupanj vrhova: 4.00, tmpEdges = 6, tmpNodes = 3
+Provedena kontrakcija nad 435664 vrhova.
+	Ukupno bridova 1931266 bridova.
+	Trenutni prosjecni stupanj vrhova: 2.00, tmpEdges = 2, tmpNodes = 2
+Provedena kontrakcija nad 435665 vrhova.
+	Ukupno bridova 1931266 bridova.
+	Trenutni prosjecni stupanj vrhova: 0.00, tmpEdges = 0, tmpNodes = 1
+Edges: 1042400
+Added edges: 888866
+------------- ---------------- ---------------
+test:
+BUILD SUCCESSFUL (total time: 16 minutes 32 seconds)

@@ -1,0 +1,5 @@
+c Simple graph used for testing.
+p smth sp co 3
+v 1 46836475 34627343
+v 2 46534210 34853675
+v 3 46879534 34600908

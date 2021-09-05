@@ -1,0 +1,9 @@
+Data: USA-road-COL
+
+Min nodes: 22
+Max nodes: 2006
+Avg nodes: 764.37
+
+Min length: 0.75 min
+Max length: 184.04 min
+Avg length: 65.78 min

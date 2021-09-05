@@ -1,0 +1,9 @@
+Data: USA-road-FLA
+
+Min nodes: 44
+Max nodes: 2270
+Avg nodes: 810.90
+
+Min length: 1.39 min
+Max length: 192.64 min
+Avg length: 63.21 min

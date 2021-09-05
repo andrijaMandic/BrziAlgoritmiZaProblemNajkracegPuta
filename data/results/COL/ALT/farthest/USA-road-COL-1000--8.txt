@@ -1,0 +1,18 @@
+Data: USA-road-COL
+Nodes: 435666
+Edges: 1042400
+ALT algorithm
+
+Iterations: 1000
+Preprocessing time: 10843 ms = 10.843 s
+Added edges: 0
+Query time: 27876 ms = 27.876 s
+
+Average query time: 27.876 ms
+Average SP time cost: 3946751.941000003 ms = 65.78 min
+Average number of settled nodes: 27601.40
+
+Min length: 45236 ms = 0.75 min
+Max length: 11042244 ms = 184.04 min
+Max settled: 201459
+Min settled: 27

@@ -1,0 +1,18 @@
+Data: USA-road-NY
+Nodes: 264346
+Edges: 730100
+Dijkstra algorithm
+
+Iterations: 1000
+Preprocessing time: 0 ms = 0.0 s
+Added edges: 0
+Query time: 94460 ms = 94.46 s
+
+Average query time: 94.46 ms
+Average SP time cost: 681014.1219999994 ms = 11.35 min
+Average number of settled nodes: 132288.81
+
+Min length: 34410 ms = 0.57 min
+Max length: 1988781 ms = 33.15 min
+Max settled: 264115
+Min settled: 375

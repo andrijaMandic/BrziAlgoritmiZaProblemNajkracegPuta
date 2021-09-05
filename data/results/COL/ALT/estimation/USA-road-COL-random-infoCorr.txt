@@ -1,0 +1,8 @@
+USA-road-COL
+random, landmarks = 1, avg correct = 0.5463
+random, landmarks = 2, avg correct = 0.6873
+random, landmarks = 4, avg correct = 0.7473
+random, landmarks = 8, avg correct = 0.8664
+random, landmarks = 16, avg correct = 0.8813
+random, landmarks = 24, avg correct = 0.9073
+random, landmarks = 32, avg correct = 0.9141

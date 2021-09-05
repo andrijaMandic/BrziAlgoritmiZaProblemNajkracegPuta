@@ -1,0 +1,12 @@
+c Graph from Kusalic's book.
+c Coordinates are not important in this example.
+p smth sp co 9
+v 1 0 0
+v 2 0 0
+v 3 0 0
+v 4 0 0
+v 5 0 0
+v 6 0 0
+v 7 0 0
+v 8 0 0
+v 9 0 0

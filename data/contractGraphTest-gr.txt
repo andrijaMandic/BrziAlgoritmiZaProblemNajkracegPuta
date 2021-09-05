@@ -1,0 +1,9 @@
+c Graph for contraction testing.
+p sp 5 7
+a 1 3 1
+a 2 3 1
+a 1 4 3
+a 3 4 2
+a 3 5 3
+a 4 5 1
+a 5 4 1

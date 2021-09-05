@@ -1,0 +1,9 @@
+Data: USA-road-NY
+
+Min nodes: 407
+Max nodes: 935
+Avg nodes: 670.01
+
+Min length: 14.21 min
+Max length: 34.38 min
+Avg length: 23.60 min

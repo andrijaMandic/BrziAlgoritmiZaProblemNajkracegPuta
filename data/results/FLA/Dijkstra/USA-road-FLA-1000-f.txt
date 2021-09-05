@@ -1,0 +1,19 @@
+Data: USA-road-FLA
+Nodes: 1070376
+Edges: 2687902
+Dijkstra algorithm
+
+Iterations: 1000
+Preprocessing time: 0 ms = 0.0 s
+Added edges: 0
+Query time: 375670 ms = 375.67 s
+
+Average query time: 375.67 ms
+Average SP time cost: 3792610.2609999995 ms = 63.21 min
+Average number of settled nodes: 530997.30
+
+Min length: 83267 ms = 1.39 min
+Max length: 11558112 ms = 192.64 min
+Max settled: 1068438
+Min settled: 1546
+

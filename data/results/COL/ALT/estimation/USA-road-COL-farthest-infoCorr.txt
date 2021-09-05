@@ -1,0 +1,8 @@
+USA-road-COL
+farthest, landmarks = 1, avg correct = 0.6438
+farthest, landmarks = 2, avg correct = 0.7493
+farthest, landmarks = 4, avg correct = 0.8650
+farthest, landmarks = 8, avg correct = 0.9044
+farthest, landmarks = 16, avg correct = 0.9213
+farthest, landmarks = 24, avg correct = 0.9325
+farthest, landmarks = 32, avg correct = 0.9380

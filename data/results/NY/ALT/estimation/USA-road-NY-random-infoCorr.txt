@@ -1,0 +1,8 @@
+USA-road-NY
+random, landmarks = 1, avg correct = 0.4243
+random, landmarks = 2, avg correct = 0.4922
+random, landmarks = 4, avg correct = 0.7726
+random, landmarks = 8, avg correct = 0.8423
+random, landmarks = 16, avg correct = 0.8658
+random, landmarks = 24, avg correct = 0.8720
+random, landmarks = 32, avg correct = 0.8776

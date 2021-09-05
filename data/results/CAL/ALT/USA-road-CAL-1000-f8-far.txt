@@ -1,0 +1,18 @@
+Data: USA-road-CAL
+Nodes: 1890815
+Edges: 4630444
+ALT algorithm
+
+Iterations: 1000
+Preprocessing time: 42111 ms = 42.111 s
+Added edges: 0
+Query time: 124364 ms = 124.364 s
+
+Average query time: 124.364 ms
+Average SP time cost: 6074330.826999999 ms = 101.24 min
+Average number of settled nodes: 103718.06
+
+Min length: 68188 ms = 1.14 min
+Max length: 17036261 ms = 283.94 min
+Max settled: 696810
+Min settled: 160

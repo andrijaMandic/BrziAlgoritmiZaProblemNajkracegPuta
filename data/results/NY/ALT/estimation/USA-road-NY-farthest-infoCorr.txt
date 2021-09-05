@@ -1,0 +1,8 @@
+USA-road-NY
+farthest, landmarks = 1, avg correct = 0.5642
+farthest, landmarks = 2, avg correct = 0.7123
+farthest, landmarks = 4, avg correct = 0.8297
+farthest, landmarks = 8, avg correct = 0.8602
+farthest, landmarks = 16, avg correct = 0.8909
+farthest, landmarks = 24, avg correct = 0.9127
+farthest, landmarks = 32, avg correct = 0.9166

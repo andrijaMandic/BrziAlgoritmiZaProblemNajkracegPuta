@@ -1,0 +1,18 @@
+Data: USA-road-CAL
+Nodes: 1890815
+Edges: 4630444
+Dijkstra algorithm
+
+Iterations: 1000
+Preprocessing time: 0 ms = 0.0 s
+Added edges: 0
+Query time: 741203 ms = 741.203 s
+
+Average query time: 741.203 ms
+Average SP time cost: 6074330.826999999 ms = 101.24 min
+Average number of settled nodes: 918261.76
+
+Min length: 68188 ms = 1.14 min
+Max length: 17036261 ms = 283.94 min
+Max settled: 1889703
+Min settled: 1564

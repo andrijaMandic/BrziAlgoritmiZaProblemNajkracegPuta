@@ -1,0 +1,5 @@
+c Simple graph used for testing.
+p sp 3 2
+c
+a 1 2 400
+a 3 2 100 

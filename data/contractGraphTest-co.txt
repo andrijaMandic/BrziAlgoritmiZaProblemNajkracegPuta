@@ -1,0 +1,8 @@
+c Graph for contraction testing.
+C Coordinates are not important in this example.
+p smth sp co 5
+v 1 0 0
+v 2 0 0 
+v 3 0 0 
+v 4 0 0 
+v 5 0 0

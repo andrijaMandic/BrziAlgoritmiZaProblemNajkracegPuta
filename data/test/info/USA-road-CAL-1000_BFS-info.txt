@@ -1,0 +1,9 @@
+Data: USA-road-CAL
+
+Min nodes: 718
+Max nodes: 3132
+Avg nodes: 1240.87
+
+Min length: 29.59 min
+Max length: 228.31 min
+Avg length: 95.88 min
