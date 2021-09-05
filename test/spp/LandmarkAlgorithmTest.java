@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package spp;
 
 import org.junit.After;
@@ -15,7 +10,7 @@ import static org.junit.Assert.*;
 /**
  *  Klasa koja sadrzi jedinicne testove za ALT algoritam.
  * 
- * @author mandi
+ * @author mandic
  */
 public class LandmarkAlgorithmTest {
     
